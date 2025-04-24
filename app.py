@@ -6,8 +6,7 @@ import os
 app = Flask(__name__)
 
 # Load the model using joblib
-MODEL_PATH = os.path.join(os.path.dirname(__file__), 'safe_route_model.pkl')
-model = joblib.load(MODEL_PATH)
+model = joblib.load('safe_route_model.pkl')
 
 @app.route('/')
 def home():
