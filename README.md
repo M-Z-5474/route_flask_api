@@ -35,5 +35,7 @@ This project was implemented by **Muhammad Zain Mushtaq** for a client as part o
 
 ## 👨‍💻 AI Developer
 This API was developed by Muhammad Zain Mushtaq for a client project.
+
 📧 Email: m.zainmushtaq74@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-zain-m-a75163358/
