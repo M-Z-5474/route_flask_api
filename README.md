@@ -30,3 +30,5 @@ This project was implemented by **Muhammad Zain Mushtaq** for a client as part o
 ├── safe_route_model.pkl # Pre-trained ML model
 
 ├── requirements.txt # Python dependencies
+
+├── README.md
